@@ -16,7 +16,7 @@ export default function Home() {
           className="p-3 mt-8 w-full border rounded"
         />
         <button className="p-3 mt-8 w-full bg-red-700 text-white rounded hover:bg-red-800 cursor-pointer">
-          เข้าสู้ระบบ
+          เข้าสู่ระบบ
         </button>
       </div>
 
